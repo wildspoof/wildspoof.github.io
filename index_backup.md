@@ -56,11 +56,8 @@ Top three ranking teams will be awarded as follows:
 The two participants/teams with the most innovative methods will be awarded $1,000 each.
 
 ## Sponsor
-<img src='{{ "https://wildspoof.github.io/wildspoof/images/naverline-logo.png" | relative_url }}' width="400" />
-
-<img src='{{ "https://wildspoof.github.io/wildspoof/images/clova-logo.png" | relative_url }}' alt="Clova Logo" style="width:200px;" />
-
-
+<img src='{{ "/images/naverline-logo.png" | relative_url }}' width="400" />
+<img src='{{ "/images/clova-logo.png" | relative_url }}' width="200" />
 
 
 
