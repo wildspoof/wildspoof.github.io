@@ -11,14 +11,17 @@ Papers relevant to the SASV 2022 Challenge can be found at [SASV2022 Related Pub
 
 
 ## Overview
-ASV (automatic speaker verification) systems are intrinsically required to reject both **non-target** (e.g., voice uttered by different speaker) and **spoofed** (e.g., synthesised or converted) inputs. However, there is little consideration for how ASV systems themselves should be adapted when they are expected to encounter spoofing attacks, nor when they operate in tandem with CMs (spoofing countermeasures), much less how both systems should be jointly optimised. 
 
-The goal of the first SASV (spoofing-aware speaker verification) challenge, a **special sesscion in ISCA INTERSPEECH 2022**, is to promote development of integrated systems that can perform ASV and CM simultaneously.
+The WildSpoof Challenge aims to advance the use of in-the-wild data in two speech processing tasks that generates and detects spoofed speech, **Text-to-Speech (TTS)** and **Spoofing-aware Automatic Speaker Verification (SASV)**, by promoting research that explores their close and increasingly interactive relationship. Specifically, we set the following objectives:
+
+- Advance the use of in-the-wild data in two closely related but underexplored tasks: TTS and SASV, moving beyond conventional clean and controlled datasets. 
+- Foster interdisciplinary collaboration between spoofing generation (TTS) and detection (SASV) sides, encouraging the development of more integrated, robust, and realistic systems.
+
 
 
 ## Evaluation plan
-- [v0.1]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
-- [v0.2]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.2.pdf)
+- [SASV]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
+- [TTS]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.2.pdf)
 
 ## Baseline repository
 The [baseline repository](https://github.com/sasv-challenge/SASVC2022_Baseline) includes various packages for
@@ -32,7 +35,7 @@ Registration can be done by submitting below form.
 [Register](https://forms.gle/htoVnog34kvs3as56)
 
 ## Submission
-Submissions should be made by sending an e-mail to **sasv.challenge@gmail.com** with an attachment containing a system description and score files for both development and the evaluation protocols. Precise submission instructions are included in the evaluation plan.
+Submissions should be made by sending an e-mail to **xxxx@gmail.com** with an attachment containing a system description and score files for both development and the evaluation protocols. Precise submission instructions are included in the evaluation plan.
 
 ## Planned schedule
 - January 20, 2022: Release of evaluation plan
