@@ -29,7 +29,6 @@ The WildSpoof Challenge promotes research that bridges the gap between speech ge
 ## Why Participate
 
 - Advance cutting-edge research in TTS and SASV using realistic in-the-wild data.
-
 - Democratize TTS development, eliminating dependence on expensive studio recordings.
 - Strengthen SASV systems against real-world synthetic speech threats.
 - Encourage the co-evolution of synthesis and detection models in adversarial settings.
