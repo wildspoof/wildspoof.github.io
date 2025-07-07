@@ -1,11 +1,7 @@
 ---
 layout: default
-title: WildSpoof
+title: Overview
 ---
-
-
-
-
 
 # **WildSpoof**
 
@@ -23,10 +19,11 @@ The WildSpoof Challenge promotes research that bridges the gap between speech ge
 
 
 <br>
+<br>
 
 
 
-## Why Participate
+## **Why Participate**
 
 - Advance cutting-edge research in TTS and SASV using realistic in-the-wild data.
 
@@ -38,10 +35,11 @@ The WildSpoof Challenge promotes research that bridges the gap between speech ge
 
 
 <br>
+<br>
 
 
 
-## Challenge Tracks
+## **Challenge Tracks**
 
 There are two tracks in the WildSpoof challenge. Participation is open to all. Each team can participate in any task.
 
@@ -56,10 +54,11 @@ There are two tracks in the WildSpoof challenge. Participation is open to all. E
 
 
 <br>
+<br>
 
 
 
-## Relevant Links
+## **Relevant Links**
 
 - [TITW dataset](https://arxiv.org/abs/2409.08711)
 - [SpoofCeleb dataset page](https://www.jungjee.com/spoofceleb/)
@@ -69,4 +68,43 @@ There are two tracks in the WildSpoof challenge. Participation is open to all. E
 
 
 
+
+
+
+### Submission instructions
+Submissions should be made by sending an e-mail to **xxxx@gmail.com** with an attachment containing a system description and score files for both development and the evaluation protocols. Precise submission instructions are included in the evaluation plan.
+
+
+
+
+### Evaluation plan
+- [SASV]({{ site.url }}/pdfs/2022_descriptions/CAU-KU.pdf)
+- [TTS]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.2.pdf)
+
+
+
+## Important Dates
+- Paper submission open:
+- Paper submission deadline:
+- Paper update deadline:
+- Acceptance notification:
+
+
+## Organising committee
+<!-- - **Jee-weon Jung** (Naver Corporation, South Korea)
+- **Hemlata Tak** (EURECOM, France)
+- **Hye-jin Shim** (University of Seoul, South Korea)
+- **Hee-Soo Heo** (Naver Corporation, South Korea)
+- **Bong-Jin Lee** (Naver Corporation, South Korea)
+- **Soo-Whan Chung** (Naver Corporation, South Korea)
+- **Hong-Goo Kang** (Yonsei University, South Korea)
+- **Ha-Jin Yu** (University of Seoul, South Korea)
+- **Nicholas Evans** (EURECOM, France)
+- **Tomi Kinnunen** (University of Eastern Finland, Finland) -->
+
+### Acknowledgment
+The organising committee have received comments and technical support from the below list of advisors. Names in alphabetical order.
+
+## Contact
+Please send an e-mail to **xxxxx@gmail.com** if you have any questions.
 
