@@ -2,7 +2,7 @@
 title:               WildSpoof challenge
 tagline:             2025
 description:         ''
-url:                 https://wildspoof.github.io/wildspoof
+url:                 https://wildspoof.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
