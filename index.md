@@ -41,7 +41,7 @@ The WildSpoof Challenge promotes research that bridges the gap between speech ge
 
 ## Challenge Tracks
 
-There are two tracks in the WildSpoof challenge. Participation is open to all. Each team can participate in any task.
+There are two tracks in the WildSpoof challenge. Participation is open to all. Each team can participate in either task or both.
 
 #### **1. TTS Track**
 
@@ -61,7 +61,7 @@ The goal of the SASV track is to build robust SASV systems, utilizing source dat
 
 - [TITW dataset](https://arxiv.org/abs/2409.08711)
 - [SpoofCeleb dataset page](https://www.jungjee.com/spoofceleb/)
-- [WildSpoof website](https://wildspoof.github.io/wildspoof/)
+- [WildSpoof website](https://wildspoof.github.io)
 - Contact: Yihan Wu (yihanwu@ruc.edu.cn)
 
 
