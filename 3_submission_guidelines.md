@@ -27,4 +27,4 @@ title: Submission Guidelines
 
 #### **3. General Problem**
 
-- Should any technical issues arise during the submission process, participants may alternatively submit their results via email. Please contact the organizers (Yihan Wu, yihanwu@ruc.edu.cn) for further assistance.
+- Participants should directly submit the results via email attachment to yihanwu@ruc.edu.cn. If it's not convenient to submit by email, participants can contact the committee and submit through the Google Drive link.
