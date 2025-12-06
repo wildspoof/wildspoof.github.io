@@ -15,7 +15,7 @@ title: WildSpoof
 
 
 
-The [**Challenge Results**]({% link 91_results.md %}) and [**Technical Reports**](({% link 92_technical_report.md %}) )  submitted by some teams are now published and available. Your feedback is highly welcome!
+The [**Challenge Results**]({% link 91_results.md %}) and [**Technical Reports**]({% link 92_technical_report.md %})  submitted by some teams are now published and available. Your feedback is highly welcome!
 
 <br>
 
