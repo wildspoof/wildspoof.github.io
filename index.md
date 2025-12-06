@@ -15,6 +15,12 @@ title: WildSpoof
 
 
 
+The [**Challenge Results**]({% link 91_results.md %}) and [**Technical Reports**](({% link 92_technical_report.md %}) )  submitted by some teams are now published and available. Your feedback is highly welcome!
+
+<br>
+
+
+
 # **WildSpoof**
 
 The **WildSpoof** Challenge aims to advance the use of in-the-wild data in two speech processing tasks that generates and detects spoofed speech. We invite you to participate in the WildSpoof Challenge, designed to advance the use of in-the-wild data in two critical and increasingly intertwined speech processing tasks:
