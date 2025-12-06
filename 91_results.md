@@ -5,106 +5,14 @@ title: Results
 
 <br>
 
-## TTS Track
 
-<table>
-    <thead>
-        <tr>
-            <th rowspan="2">Team ID</th>
-            <th colspan="3">Seen speakers</th>
-            <th colspan="3">Unseen speakers</th>
-        </tr>
-        <tr>
-            <th>UTMOS</th>
-            <th>DNSMOS</th>
-            <th>WER</th>
-            <th>UTMOS</th>
-            <th>DNSMOS</th>
-            <th>WER</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-
-            <td>T01</td>
-            <td>3.9559</td>
-            <td>3.2270</td>
-            <td>6.48</td>
-            <td>3.9062</td>
-            <td>3.1691</td>
-            <td>6.81</td>
-        </tr>
-        <tr>
-    
-            <td>T02</td>
-            <td>3.7390</td>
-            <td>3.0780</td>
-            <td>5.50</td>
-            <td>3.9078</td>
-            <td>3.1195</td>
-            <td>5.88</td>
-        </tr>
-        <tr>
-    
-            <td>T03</td>
-            <td>3.4540</td>
-            <td>3.0261</td>
-            <td>33.79</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-    
-            <td>T04</td>
-            <td>2.6786</td>
-            <td>2.7354</td>
-            <td>99.28</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-    
-            <td>T05</td>
-            <td>3.2016</td>
-            <td>2.6078</td>
-            <td>8.65</td>
-            <td>3.5325</td>
-            <td>2.8002</td>
-            <td>21.11</td>
-        </tr>
-        <tr>
-    
-            <td>T06</td>
-            <td>3.4909</td>
-            <td>2.9336</td>
-            <td>9.45</td>
-            <td>3.3025</td>
-            <td>2.7767</td>
-            <td>13.63</td>
-        </tr>
-        <tr>
-    
-            <td>T07</td>
-            <td>3.5292</td>
-            <td>2.7434</td>
-            <td>20.46</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-    </tbody>
-</table>
-
-
-<br>
 
 ## SASV Track
 
 <table>
     <thead>
         <tr>
+
 
             <th rowspan="2">Team ID</th>
             <th rowspan="2">Macro a-DCF</th>
@@ -291,4 +199,100 @@ title: Results
             <td>Late submission</td>
         </tr>
     </tbody>
+
 </table>
+
+<br>
+
+## TTS Track
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Team ID</th>
+            <th colspan="3">Seen speakers</th>
+            <th colspan="3">Unseen speakers</th>
+        </tr>
+        <tr>
+            <th>UTMOS</th>
+            <th>DNSMOS</th>
+            <th>WER</th>
+            <th>UTMOS</th>
+            <th>DNSMOS</th>
+            <th>WER</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+
+            <td>T01</td>
+            <td>3.9559</td>
+            <td>3.2270</td>
+            <td>6.48</td>
+            <td>3.9062</td>
+            <td>3.1691</td>
+            <td>6.81</td>
+        </tr>
+        <tr>
+    
+            <td>T02</td>
+            <td>3.7390</td>
+            <td>3.0780</td>
+            <td>5.50</td>
+            <td>3.9078</td>
+            <td>3.1195</td>
+            <td>5.88</td>
+        </tr>
+        <tr>
+    
+            <td>T03</td>
+            <td>3.4540</td>
+            <td>3.0261</td>
+            <td>33.79</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+    
+            <td>T04</td>
+            <td>2.6786</td>
+            <td>2.7354</td>
+            <td>99.28</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+    
+            <td>T05</td>
+            <td>3.2016</td>
+            <td>2.6078</td>
+            <td>8.65</td>
+            <td>3.5325</td>
+            <td>2.8002</td>
+            <td>21.11</td>
+        </tr>
+        <tr>
+    
+            <td>T06</td>
+            <td>3.4909</td>
+            <td>2.9336</td>
+            <td>9.45</td>
+            <td>3.3025</td>
+            <td>2.7767</td>
+            <td>13.63</td>
+        </tr>
+        <tr>
+    
+            <td>T07</td>
+            <td>3.5292</td>
+            <td>2.7434</td>
+            <td>20.46</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
