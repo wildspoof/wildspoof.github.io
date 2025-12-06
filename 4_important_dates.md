@@ -13,7 +13,7 @@ title: Important Dates
 - **Results Announcement**: December 05, 2025
 - ~~**2-page Papers Due (by invitation only)**: December 07, 2025~~
 - **2-page Papers Due (by invitation only)**: January 07, 2026
-- **2-page papers acceptance notification**: January 21, 2026
+- **2-page Papers Acceptance Notification**: January 21, 2026
 - ~~**Camera-ready 2-page Papers Due**: January 18, 2026~~
 - **Camera-ready 2-page Papers Due**: January 28, 2026
 
