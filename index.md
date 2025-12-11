@@ -7,11 +7,7 @@ title: WildSpoof
 
 <img src="../images/WildSpoof.png" alt="WildSpoof Image" width="1000">
 
-<font color='red'> 
 
-<b>We have sent confirmation emails to all teams who submitted their results. If you have submitted but have not received a confirmation email, please contact Yihan Wu at yihanwu@ruc.edu.cn.</b>
-
-</font>
 
 
 
