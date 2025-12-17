@@ -243,12 +243,41 @@ title: Results
     </thead>
     <tbody>
         <tr>
+            <td>B01</td>
+            <td>2.2429</td>
+            <td>2.4572</td>
+            <td>30.26</td>
+            <td>N/A</td>
+            <td>N/A</td>
+           	<td>N/A</td>
+            <td>N/A</td>
+
+
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>B02</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+           	<td>N/A</td>
+            <td>N/A</td>
+            <td>3.3871</td>
+            <td>3.0082</td>
+            <td>11.46</td>
+        </tr>
+        <tr>
             <td>T01</td>
             <td>3.9559</td>
             <td>3.2270</td>
             <td>6.48</td>
             <td>0.2564</td>
             <td>0.0453</td>
+
 
             <td>0.1782</td>
             <td>0.1125</td>
@@ -267,7 +296,7 @@ title: Results
             
             <td>0.1232</td>
             <td>0.1125</td>
-
+    
             <td>3.9078</td>
             <td>3.1195</td>
             <td>5.88</td>
@@ -349,5 +378,4 @@ title: Results
         </tr>
     </tbody>
 </table>
-
 
