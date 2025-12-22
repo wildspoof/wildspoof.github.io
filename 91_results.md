@@ -234,6 +234,7 @@ title: Results
             <th rowspan="2">UTMOS</th>
             <th rowspan="2">DNSMOS</th>
             <th rowspan="2">WER</th>
+            <th rowspan="2">Speaker Similarity</th>
         </tr>
         <tr>
         	<th>by SASV T01</th>
@@ -253,8 +254,10 @@ title: Results
             <td>N/A</td>
 
 
-            <td>N/A</td>
-            <td>N/A</td>
+
+            <td>3.3871</td>
+            <td>3.0082</td>
+            <td>11.46</td>
             <td>N/A</td>
         </tr>
         <tr>
@@ -266,9 +269,10 @@ title: Results
             <td>N/A</td>
            	<td>N/A</td>
             <td>N/A</td>
-            <td>3.3871</td>
-            <td>3.0082</td>
-            <td>11.46</td>
+            <td>3.9062</td>
+            <td>3.1691</td>
+            <td>6.81</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>T01</td>
@@ -285,6 +289,7 @@ title: Results
             <td>3.9062</td>
             <td>3.1691</td>
             <td>6.81</td>
+            <td>0.5156</td>
         </tr>
         <tr>
             <td>T02</td>
@@ -300,6 +305,7 @@ title: Results
             <td>3.9078</td>
             <td>3.1195</td>
             <td>5.88</td>
+            <td>0.2603</td>
         </tr>
         <tr>
             <td>T03</td>
@@ -312,6 +318,7 @@ title: Results
             <td>0.0294</td>
             <td>0.1125</td>
             
+            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -330,6 +337,7 @@ title: Results
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>T05</td>
@@ -345,6 +353,7 @@ title: Results
             <td>3.5325</td>
             <td>2.8002</td>
             <td>21.11</td>
+            <td>0.5194</td>
         </tr>
         <tr>
             <td>T06</td>
@@ -360,6 +369,7 @@ title: Results
             <td>3.3025</td>
             <td>2.7767</td>
             <td>13.63</td>
+            <td>0.3503</td>
         </tr>
         <tr>
             <td>T07</td>
@@ -372,6 +382,7 @@ title: Results
             <td>0.0266</td>
             <td>0.1125</td>
             
+            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
