@@ -255,9 +255,9 @@ title: Results
 
 
 
-            <td>3.3871</td>
-            <td>3.0082</td>
-            <td>11.46</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
             <td>N/A</td>
         </tr>
         <tr>
@@ -269,9 +269,9 @@ title: Results
             <td>N/A</td>
            	<td>N/A</td>
             <td>N/A</td>
-            <td>3.9062</td>
-            <td>3.1691</td>
-            <td>6.81</td>
+            <td>3.3871</td>
+            <td>3.0082</td>
+            <td>11.46</td>
             <td>N/A</td>
         </tr>
         <tr>
